@@ -14,7 +14,7 @@
 ## Contacta conmigo!
 
   - 📫 inmacaballerocarrero@gmail.com
-  - :office: [LinkedIn](https://www.linkedin.com/in/inmacaballerocarrero/)
+  - :office: https://www.linkedin.com/in/inmacaballerocarrero/
 
 <!--
 ## Contacta conmigo!
