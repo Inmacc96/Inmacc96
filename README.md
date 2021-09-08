@@ -10,8 +10,10 @@
 - 📚 Además, me gusta bastante leer en mis tiempos libres.
 - 🌱 Soy adicta en aprender y seguir creciendo todos los días.
 - 🤔 Actualmente estoy aprendiendo sobre ReactJS.
-- 📫 Contacta conmigo!
-  - 📧 inmacaballerocarrero@gmail.com
+
+## Contacta conmigo!
+
+  - 📫 inmacaballerocarrero@gmail.com
   - :office: [LinkedIn](https://www.linkedin.com/in/inmacaballerocarrero/)
 
 <!--
