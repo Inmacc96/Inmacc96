@@ -1,18 +1,23 @@
 ### Hi there 👋
 
-
+<!--
 **Inmacc96/Inmacc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 ## Sobre mí
 
-- 💙 : Soy una amante de las matemáticas y el mundo de los datos.
+- 💙 Soy una amante de las matemáticas y el mundo de los datos.
 - 📚 Además, me gusta bastante leer en mis tiempos libres.
 - 🌱 Soy adicta en aprender y seguir creciendo todos los días.
 - 🤔 Actualmente estoy aprendiendo sobre ReactJS.
-
-## Contacta conmigo!
+- 📫 Contacta conmigo!
+  - 📧 [Gmail](inmacaballerocarrero@gmail.com)
+  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
 
 <!--
+## Contacta conmigo!
+
+
 <p align="center">
   <a href="https://github.com/inmacc96">
     <img width="60" src="https://github.com/davidivad96/davidivad96/blob/main/logos/github-logo.png?raw=true" />
