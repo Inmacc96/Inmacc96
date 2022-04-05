@@ -6,10 +6,10 @@
 
 ## Sobre mí
 
-- 💙 Soy una amante de las matemáticas y el mundo de los datos.
+- 💙 Soy una amante de las matemáticas, el mundo de los datos y la programación.
 - 📚 Además, me gusta bastante leer en mis tiempos libres.
 - 🌱 Soy adicta en aprender y seguir creciendo todos los días.
-- 🤔 Actualmente estoy aprendiendo sobre ReactJS.
+- 🤔 Actualmente estoy aprendiendo sobre Desarrollo Web, en concreto, la librería ReactJS.
 
 ## Contacta conmigo!
 
