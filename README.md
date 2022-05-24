@@ -4,14 +4,14 @@
 **Inmacc96/Inmacc96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Sobre mí
+## About me
 
-- 💙 Soy una amante de las matemáticas, el mundo de los datos y la programación.
-- 📚 Además, me gusta bastante leer en mis tiempos libres.
-- 🌱 Soy adicta en aprender y seguir creciendo todos los días.
-- 🤔 Actualmente estoy aprendiendo sobre Desarrollo Web, en concreto, la librería ReactJS.
+- 💙 I am a lover of mathematics, the world of data and programming.
+- 📚 Besides, I like to read a lot in my free time.
+- 🌱 I am addicted to learn and keep improving every day.
+- 🤔 I'm currently learning about Web Development, specifically, the ReactJS library.
 
-## Contacta conmigo!
+## Contact me!
 
   - 📫 inmacaballerocarrero@gmail.com
   - 🔗 https://www.linkedin.com/in/inmacaballerocarrero/
