@@ -16,26 +16,20 @@
 
 🗣️ Languages:
 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=grey" /> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&labelColor=grey" /> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&labelColor=grey" /> 
 
 🌐 Frontend:
 
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&labelColor=grey" /> 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&labelColor=grey" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&labelColor=grey" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Material%20UI-0081CB?logo=material-ui&labelColor=grey" /> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&labelColor=grey" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&labelColor=grey" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&labelColor=grey" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&labelColor=grey" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&labelColor=grey" /> <img src="https://img.shields.io/badge/-Material%20UI-0081CB?logo=material-ui&labelColor=grey" /> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&labelColor=grey" />
 
 ✨ Backend:
 
-<img src="https://img.shields.io/badge/-Node-339933?logo=node.js&labelColor=grey" /> <img src="https://img.shields.io/badge/-Express-000000?logo=express&labelColor=grey" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&labelColor=grey" /> 
+<img src="https://img.shields.io/badge/-Node-339933?logo=node.js&labelColor=grey" /> <img src="https://img.shields.io/badge/-Express-000000?logo=express&labelColor=grey" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&labelColor=grey" /> 
 
 
 🛠️ Other tools:
 
-<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&labelColor=grey" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&labelColor=grey" />
-<img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&labelColor=grey" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&labelColor=grey" />
+<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&labelColor=grey" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&labelColor=grey" /> <img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&labelColor=grey" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&labelColor=grey" />
 
 ## Contact me!
 
