@@ -6,7 +6,7 @@
 
 ## About me
 
-- 💙 I am a lover of mathematics, the world of data and programming.
+- 💙 I am a lover of mathematics and programming.
 - 📚 I love to read a lot in my free time.
 - 💡 I am addicted to learn and keep improving every day.
 - 🌱 I'm currently learning about Web Development.
